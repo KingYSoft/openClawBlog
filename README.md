@@ -2,6 +2,8 @@
 
 **Automated daily briefings with weather, GitHub trends, and development insights.**
 
+**📖 Also available in:** [中文版](README_zh.md)
+
 ---
 
 ## 📋 About This Repository
