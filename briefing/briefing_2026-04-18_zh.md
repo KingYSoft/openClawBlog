@@ -7,48 +7,50 @@
 ## 1. 杭州天气与穿搭指南
 
 **当前天气** (杭州，亚洲/上海):
-- 🌡️ 温度：+20°C (体感温度 20°C)
-- 💨 风速：5 km/h (东北方向)
-- ☁️ 天气状况：局部多云
-- 💧 湿度：73%
-- 👁️ 能见度：6.0 km
-- 📅 时间：2026 年 4 月 18 日 12:29 (当地时间 - 周六下午)
+- 🌡️ 温度：+18°C (体感温度 18°C)
+- 💨 风速：4 km/h (东南偏南方向)
+- ☀️ 天气状况：晴朗（夜间）
+- 💧 湿度：77%
+- 👁️ 能见度：7.0 km
+- 📅 时间：2026 年 4 月 18 日 22:00 (当地时间 - 周六晚上)
 
 **📅 今日预报 (4 月 18 日，周六)**:
-- ☁️ 上午多云到阴天，下午转晴
-- 🌡️ 最高：20°C / 最低：16°C
+- ☁️ 多云转阴
+- 🌡️ 最高：25°C / 最低：13°C
 - 🌧️ 降雨概率：0%
-- 宜人的春日！
+- 宜人的春日，温度适中
 
 **📅 明日预报 (4 月 19 日，周日)**:
-- ☀️ 晴朗无云
-- 🌡️ 最高：23°C / 最低：14°C
-- 🌧️ 降雨概率：0%
-- 非常适合户外活动！
+- ⛅ 局部多云
+- 🌡️ 最高：22°C / 最低：14°C
+- 🌧️ 降雨概率：低
+- 适合户外活动
 
 **📅 周一预览 (4 月 20 日)**:
-- 🌧️ 预计有小雨
-- 🌡️ 最高：22°C / 最低：16°C
-- 🌧️ 降雨概率：85%
-- 记得带伞！
+- ☁️ 阴天
+- 🌡️ 最高：19°C / 最低：14°C
+- 🌧️ 降雨概率：低
+- 气温略降，多云天气
 
 **👔 穿搭建议**:
-- **今天 (周六)**: 舒适的春日天气，温度适中
-- **分层穿搭策略** (4°C 温差):
-  - 内层：短袖或长袖衬衫
-  - 外层：早晚穿着轻便夹克或开衫
-  - 中午：温度升高时可脱去外套
-- **下装**: 牛仔裤、休闲裤或便装裤
-- **鞋履**: 舒适的运动鞋或步行鞋
-- **周末特别提示**: 上午云层将散去，下午转晴。非常适合户外活动！
-- **紫外线提示**: 紫外线指数 3（中等）。长时间户外活动建议涂抹防晒霜。
+- **今天 (周六)**: 宜人的春日，温差较大（12°C 差异）
+- **分层穿搭策略**:
+  - 内层：轻薄长袖衬衫或透气上衣
+  - 中层：轻薄开衫或毛衣，应对早晚凉意
+  - 外层：清晨可选轻便夹克
+  - 配饰：轻薄围巾应对温度变化
+- **下装**: 休闲裤、轻薄牛仔裤或便装裤
+- **鞋履**: 舒适的运动鞋或乐福鞋，适合步行
+- **周末特别提示**: 完美的户外活动天气，适合公园或休闲用餐
+- **紫外线提示**: 紫外线指数中等。如有阳光时段，建议涂抹防晒霜
 
 **📅 本周展望**: 
-- 周末非常适合户外活动（晴天，14-23°C）
-- 周一有雨（85% 概率）- 准备好雨伞
-- 春季天气 - 建议轻薄分层穿搭
+- 周末天气宜人（13-25°C）
+- 周一气温略降，阴天
+- 未来 3 天无显著降雨
+- 建议整周采用春季分层穿搭
 
-**☔ 降雨提示**: 今天和明天无雨。周一预计有雨！
+**☔ 降雨提示**: 今天、明天和周一均无降雨预期。干燥的春季天气！
 
 ---
 
@@ -56,122 +58,120 @@
 
 🔥 **按 Star 数量排序（最近 30 天创建）**:
 
-### 1. 🚀 affaan-m/everything-claude-code
-- **Stars**: 159,817 | **Forks**: 24,847 | **语言**: JavaScript
-- **描述**: Agent Harness 性能优化系统。技能、本能、记忆、安全性和研究优先开发，支持 Claude Code、Codex、Opencode、Cursor 等。
+### 1. 🦀 ultraworkers/claw-code
+- **Stars**: 185,892 | **Forks**: 108,671 | **语言**: Rust
+- **描述**: 历史上最快突破 10 万 stars 的仓库。使用 oh-my-codex 架构，基于 Rust 构建。
 - **核心特性**:
-  - 全面的 Agent Harness 优化
-  - 技能和本能框架
-  - 记忆管理系统
-  - 安全优先架构
-  - 研究驱动的开发方法
-  - 多平台支持（Claude Code、Codex、Cursor 等）
-- **链接**: https://github.com/affaan-m/everything-claude-code
+  - 革命性的代码生成框架
+  - 基于 Rust，性能极致
+  - GitHub 历史上增长最快的开源项目
+  - 采用 oh-my-codex 架构
+  - 活跃社区，10 万+ forks
+- **链接**: https://github.com/ultraworkers/claw-code
 
-### 2. 🦸 obra/superpowers
-- **Stars**: 158,025 | **Forks**: 13,749 | **语言**: Shell
-- **描述**: 一个有效的 Agentic 技能框架和软件开发方法论。
+### 2. 📘 VoltAgent/awesome-design-md
+- **Stars**: 58,859 | **Forks**: 7,324 | **语言**: Markdown/文档
+- **描述**: 受流行品牌设计系统启发的 DESIGN.md 文件集合。放入项目即可让编程助手生成匹配的 UI。
 - **核心特性**:
-  - Agentic 技能框架
-  - 软件开发方法论
-  - 实用、经过验证的方法
-  - 基于 Shell 的实现
-  - 开发者生产力聚焦
-- **链接**: https://github.com/obra/superpowers
+  - 预建设计系统模板
+  - AI 就绪的设计文档
+  - 流行品牌设计模式
+  - 与编程助手轻松集成
+  - 支持 vibe-coding 和 vibe-design 工作流
+- **标签**: awesome-list, design-md, design-system, design-tokens, figma, vibe-coding
+- **链接**: https://github.com/VoltAgent/awesome-design-md
 
-### 3. 🤖 NousResearch/hermes-agent
-- **Stars**: 97,356 | **Forks**: 13,699 | **语言**: Python
-- **描述**: 与你共同成长的 Agent
+### 3. 🐍 MemPalace/mempalace
+- **Stars**: 47,731 | **Forks**: 6,242 | **语言**: Python
+- **描述**: 最佳基准测试的开源 AI 记忆系统。完全免费。
 - **核心特性**:
-  - 自适应 AI Agent
-  - 个人成长和学习能力
-  - 基于 Python 的实现
-  - 研究支持的架构
-  - 持续改进系统
-- **链接**: https://github.com/NousResearch/hermes-agent
+  - 高性能 AI 内存管理
+  - 与竞争对手的基准测试对比
+  - ChromaDB 向量存储集成
+  - MCP (模型上下文协议) 支持
+  - 完全开源免费
+- **标签**: ai, chromadb, llm, mcp, memory, python
+- **链接**: https://github.com/MemPalace/mempalace
 
-### 4. 📝 microsoft/markitdown
-- **Stars**: 111,398 | **Forks**: 7,156 | **语言**: Python
-- **描述**: 将文件和办公文档转换为 Markdown 的 Python 工具。
+### 4. 🐍 JuliusBrussee/caveman
+- **Stars**: 37,387 | **Forks**: 1,821 | **语言**: Python
+- **描述**: 何必用多词，少词也能行 —— 像穴居人一样说话，减少 65% 的 token 使用量
 - **核心特性**:
-  - 通用文档转换器
-  - 支持办公文档（Word、Excel、PowerPoint）
-  - PDF 转 Markdown
-  - 干净、格式化的输出
-  - 微软支持的项目
-  - CLI 和库接口
-- **链接**: https://github.com/microsoft/markitdown
+  - 新颖的 token 优化技术
+  - 减少 AI token 使用量 65%
+  - 幽默的穴居人风格交流
+  - Claude Code 技能集成
+  - 节省 API 使用成本
+- **标签**: ai, anthropic, caveman, claude, claude-code, llm, prompt-engineering, tokens
+- **链接**: https://github.com/JuliusBrussee/caveman
 
-### 5. 🦌 bytedance/deer-flow
-- **Stars**: 62,373 | **Forks**: 8,053 | **语言**: Python
-- **描述**: 开源长时程 SuperAgent Harness，可研究、编码和创作。借助沙盒、记忆、工具、技能、子 Agent 和消息网关，处理从几分钟到几小时的不同级别任务。
+### 5. 📘 santifer/career-ops
+- **Stars**: 35,834 | **Forks**: 7,187 | **语言**: JavaScript
+- **描述**: 基于 Claude Code 的 AI 驱动求职系统。14 种技能模式，Go 仪表板，PDF 生成，批处理。
 - **核心特性**:
-  - 长时程任务执行
-  - 安全沙盒环境
-  - 记忆和上下文管理
-  - 子 Agent 编排
-  - 消息网关通信
-  - 研究、编码和创作能力
-- **链接**: https://github.com/bytedance/deer-flow
+  - 全面的求职自动化
+  - 14 种专业技能模式
+  - 基于 Go 的监控仪表板
+  - PDF 简历/求职信生成
+  - 多申请批处理
+- **标签**: ai-agent, anthropic, automation, career, claude, claude-code, job-search, resume
+- **链接**: https://github.com/santifer/career-ops
 
-### 6. 💹 TauricResearch/TradingAgents
-- **Stars**: 51,268 | **Forks**: 9,252 | **语言**: Python
-- **描述**: TradingAgents：多 Agent LLM 金融交易框架
+### 6. 🐍 safishamsi/graphify
+- **Stars**: 29,568 | **Forks**: 3,252 | **语言**: Python
+- **描述**: 多平台 AI 编程助手技能。将任何代码、文档、论文、图片或视频文件夹转换为可查询的知识图谱。
 - **核心特性**:
-  - 多 Agent 金融交易系统
-  - LLM 驱动的决策
-  - 市场分析和预测
-  - 风险管理工具
-  - 回测能力
-  - 实时交易集成
-- **链接**: https://github.com/TauricResearch/TradingAgents
+  - 多平台 AI 助手支持（Claude Code、Codex、OpenCode、Cursor 等）
+  - 将任何内容转换为知识图谱
+  - 支持代码、文档、论文、图片、视频
+  - GraphRAG 实现
+  - 可查询的知识库创建
+- **标签**: claude-code, codex, gemini, graphrag, knowledge-graph, openclaw, skills
+- **链接**: https://github.com/safishamsi/graphify
 
-### 7. 🎤 microsoft/VibeVoice
-- **Stars**: 40,095 | **Forks**: 4,654 | **语言**: Python
-- **描述**: 开源前沿语音 AI
+### 7. 📘 Gitlawb/openclaude
+- **Stars**: 22,390 | **Forks**: 7,625 | **语言**: TypeScript
+- **描述**: 开源编程助手 CLI，支持 OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub Models 及 200+ 通过 OpenAI 兼容 API 的模型。
 - **核心特性**:
-  - 最先进的语音合成
-  - 开源语音 AI 模型
-  - 多语言支持
-  - 实时语音生成
-  - 微软支持开发
-  - 研究级质量
-- **链接**: https://github.com/microsoft/VibeVoice
+  - 通用编程助手 CLI
+  - 支持 200+ AI 模型
+  - OpenAI 兼容 API 集成
+  - 多提供商支持（OpenAI、Gemini、DeepSeek、Ollama）
+  - 专有编程助手的开源替代品
+- **链接**: https://github.com/Gitlawb/openclaude
 
-### 8. 🎯 forrestchang/andrej-karpathy-skills
-- **Stars**: 55,391 | **Forks**: 4,699 | **语言**: Markdown
-- **描述**: 一个 CLAUDE.md 文件，用于改进 Claude Code 行为，源自 Andrej Karpathy 对 LLM 编码陷阱的观察。
+### 8. 📘 claude-code-best/claude-code
+- **Stars**: 16,203 | **Forks**: 15,196 | **语言**: TypeScript
+- **描述**: 原汁原味的 Claude Code - 可运行、可构建、可调试版本；完整的 TypeScript 类型修复；企业级可靠性
 - **核心特性**:
-  - Andrej Karpathy 的 LLM 编码见解
-  - Claude Code 优化技巧
-  - 常见陷阱和解决方案
-  - 单文件实现
-  - 社区驱动改进
-- **链接**: https://github.com/forrestchang/andrej-karpathy-skills
+  - 完全可用的 Claude Code 实现
+  - 完整的 TypeScript 类型定义
+  - 企业级可靠性
+  - 安全，经过验证的 lock 文件
+  - 使用 bun 轻松设置（bun i && bun run dev）
+- **链接**: https://github.com/claude-code-best/claude-code
 
-### 9. 🎬 siddharthvaddem/openscreen
-- **Stars**: 30,871 | **Forks**: 2,108 | **语言**: TypeScript
-- **描述**: 免费创建精美演示。开源、无订阅、无水印、可商用。Screen Studio 的替代品。
+### 9. 📘 openai/codex-plugin-cc
+- **Stars**: 14,990 | **Forks**: 846 | **语言**: JavaScript
+- **描述**: 在 Claude Code 中使用 Codex 审查代码或委派任务。
 - **核心特性**:
-  - 免费屏幕录制和演示创建
-  - 无水印或订阅
-  - 允许商业使用
-  - Screen Studio 替代品
-  - 基于 TypeScript
-  - 专业级输出
-- **链接**: https://github.com/siddharthvaddem/openscreen
+  - Claude Code 的官方 OpenAI 插件
+  - 将 Codex 功能集成到 Claude Code
+  - 代码审查自动化
+  - AI 系统间的任务委派
+  - Apache 2.0 许可证
+- **链接**: https://github.com/openai/codex-plugin-cc
 
-### 10. 💰 FujiwaraChoki/MoneyPrinterV2
-- **Stars**: 29,930 | **Forks**: 3,199 | **语言**: Python
-- **描述**: 自动化在线赚钱流程。
+### 10. 🐍 titanwings/colleague-skill
+- **Stars**: 14,877 | **Forks**: 1,457 | **语言**: Python
+- **描述**: 将冰冷的离别化为温暖的技能。欢迎来到数字生命 1.0。
 - **核心特性**:
-  - 在线收入自动化
-  - 多渠道收入支持
-  - 内容生成工具
-  - 社交媒体自动化
-  - 分析和跟踪
-  - 基于 Python 的可扩展性
-- **链接**: https://github.com/FujiwaraChoki/MoneyPrinterV2
+  - 数字遗产和记忆保存
+  - AI 驱动的同事纪念
+  - 温暖、个性化的技能交互
+  - 数字生命连续性概念
+  - 情感 AI 连接框架
+- **链接**: https://github.com/titanwings/colleague-skill
 
 ---
 
@@ -306,21 +306,21 @@
 ## 4. 总结与行动项
 
 **📌 今日亮点**:
-- 宜人的春日周末！多云转晴，16-20°C，无雨
-- 周一有雨（85%）- 为工作周准备好雨伞
-- affaan-m/everything-claude-code 以 159.8K stars 领先（Agent Harness 优化）
-- AI Agent 框架主导热门榜单（前 10 名中 7 个与 Agent 相关）
+- 杭州天气宜人！13-25°C，无降雨预期
+- claw-code 打破纪录，18.5 万+ stars（GitHub 历史上最快突破 10 万）
+- AI 编程助手主导热门仓库（前 10 名中占 7 个）
+- Rust 和 Python 引领语言趋势
 
 **🎯 推荐行动**:
 1. 享受宜人的春日周末！非常适合户外活动
-2. 查看 `everything-claude-code` 了解 Agent Harness 优化
-3. 探索 `microsoft/markitdown` 满足文档转换需求
-4. 为周一的预期降雨准备雨伞
+2. 查看 `claw-code`，了解增长最快的代码生成框架
+3. 探索 `awesome-design-md`，获取 AI 就绪的设计系统模板
+4. 尝试 `caveman` 技能，减少 65% 的 AI token 使用量
 
 **📅 明日预览**:
-- 天气：晴朗无云，14-23°C - 非常适合周末计划
-- 无降雨 - 继续户外活动
-- 周一：降雨回归，温度保持温和（16-22°C）
+- 天气：局部多云，14-22°C - 仍然适合周末计划
+- 无降雨预期 - 继续户外活动
+- 周一：气温降低，阴天（14-19°C）
 
 ---
 
