@@ -1,141 +1,355 @@
-# 每日简报 - 2026-05-18
+# 每日简报 - 2026年5月18日
 
-**📖 其他语言:** [English Version](briefing_2026-05-18.md)
+**📖 Also available in:** [English Version](briefing_2026-05-18.md)
 
 ---
 
-## 1. 杭州天气与穿搭指南
+## 1. 杭州天气 & 穿搭指南
 
-**当前天气** (杭州，亚洲/上海):
-- 🌡️ 温度：30°C (体感温度 30°C)
-- 💨 风速：16 km/h (S 方向)
-- 🌤️ 天气状况：Overcast 
-- 💧 湿度：31%
-- 👁️ 能见度：10 公里
-- 📅 时间：May 18, 2026 06:05 (UTC)
+**当前天气** (杭州, Asia/Shanghai):
+- 🌡️ 温度：+27°C (体感 29°C)
+- 💨 风速：6 km/h (SSE 方向)
+- 🌫️ 天气：局部多云
+- 💧 湿度：58%
+- 👁️ 能见度：10 km
+- 📅 日期：2026年5月18日 下午1:50 (当地时间)
 
-**📅 今日预报**：
-- 🌡️ 最高：31°C / 最低：18°C
-- 🌧️ 降雨概率：0%
-- 适合户外活动！
+**📅 今日天气预报 (5月18日)**:
+- ☀️ 晴空
+- 🌡️ 最高：30°C / 最低：18°C
+- 🌧️ 雨量概率：0%
+- 适合户外活动的完美一天！
 
-**📅 明日预报**：
-- 🌡️ 最高：28°C / 最低：21°C
-- 🌧️ 降雨概率：0%
+**📅 明日天气预报 (5月19日)**:
+- ⛅ 局部多云
+- 🌡️ 最高：22°C / 最低：16°C
+- 🌧️ 雨量概率：0%
+- 适合户外计划！
 
 **👔 穿搭建议**：
-- 建议穿戴轻薄衣物（T恤、短裤）。请注意防晒和佩戴太阳镜。
-- **注意**：杭州天气变化快，建议随身携带薄外套或雨伞以防不时之需。
+- **今日**：美丽的晴天！
+- **层次策略** (适中的温度范围):
+  - 基础层：轻薄T恤或衬衫
+  - 中间层：轻薄开衫或和服（可选，用于较凉爽时刻）
+  - 外层：如需可准备轻薄外套用于傍晚
+  - 配件：阳光充足时建议佩戴太阳镜
+- **下装**：牛仔裤、卡其裤、休闲裤或短裤。全天舒适穿着。
+- **鞋类**：运动鞋、乐福鞋或步行鞋。适合户外探索。
+- **周末特别**：天气适合公园、徒步或户外咖啡馆！
+- **UV 注意**：当前UV指数为0（低），但中午将达到峰值10 - 建议长时间户外活动使用防晒霜。
 
-## 2. GitHub 热门仓库 TOP 10（近 30 天）
+**📅 一周展望**： 
+- 今日适合户外活动（晴天，18-30°C）
+- 明日天气继续宜人
+- 近期天气预报均无降雨
 
-🔥 **按 Star 数量排序（最近 30 天创建）**：
+**☔ 雨天提醒**：今日或明日均无降雨预期。
 
-### 1. open-design
-- **Stars**: 43,994 | **Forks**: 5,020 | **语言**：TypeScript
-- **描述**：🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+---
+
+## 2. GitHub 近30天星标最高的10个仓库
+
+🔥 **按星标数排名（最近30天创建）**：
+
+### 1. 🎨 nexu-io/open-design
+- **星标**：44,569 | **分叉**：5,083 | **语言**：TypeScript
+- **描述**：Anthropic Claude Design的本地优先开源替代方案。⚡ 19项技能 · ✨ 71个品牌级设计系统 🖼 生成网页 · 桌面 · 移动原型 · 幻灯片 · 图像 · 视频 · HyperFrames 📦 沙盒预览 · HTML/PDF/PPTX/MP4导出 🤖 支持 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI。
+- **主要特性**：
+  - 本地优先的AI辅助设计工具
+  - 支持71个品牌级设计系统
+  - 生成网页、桌面、移动原型、幻灯片、图像、视频
+  - HyperFrames交互式演示技术
+  - 沙盒预览支持多种导出格式
+  - 与主要AI编程助手兼容
 - **链接**：https://github.com/nexu-io/open-design
 
-### 2. huashu-design
-- **Stars**: 14,096 | **Forks**: 1,932 | **语言**：HTML
-- **描述**：Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+### 2. 🏮 alchaincyf/huashu-design
+- **星标**：14,165 | **分叉**：1,934 | **语言**：HTML
+- **描述**：华书设计 · Claude Code的HTML原生设计技能 · Claude Code里HTML原生的设计技能 · 高保真原型 / 幻灯片 / 动画 + 20设计哲学 + 5维评审 + MP4导出 · 与智能体无关
+- **主要特性**：
+  - 专为Claude Code设计的HTML原生设计技能
+  - 高保真原型 / 幻灯片 / 动画
+  - 包含20个设计哲学和5维评审体系
+  - 支持MP4导出
+  - 与任何AI智能体兼容（与智能体无关）
+  - 专注于传统中文设计美学
 - **链接**：https://github.com/alchaincyf/huashu-design
 
-### 3. ds4
-- **Stars**: 10,448 | **Forks**: 850 | **语言**：C
-- **描述**：DeepSeek 4 Flash local inference engine for Metal and CUDA
+### 3. ⚡ antirez/ds4
+- **星标**：10,563 | **分叉**：862 | **语言**：C
+- **描述**：DeepSeek 4 Flash本地推理引擎，适用于Metal和CUDA
+- **主要特性**：
+  - 专为DeepSeek 4优化的本地推理引擎
+  - 支持Metal（Apple GPU）和CUDA（NVIDIA GPU）
+  - Flash级优化以获得速度
+  - 专为本地、私有AI推理设计
+  - 高性能且内存占用低
+  - 由antirez（Redis创始人）创建
 - **链接**：https://github.com/antirez/ds4
 
-### 4. guizang-ppt-skill
-- **Stars**: 9,603 | **Forks**: 777 | **语言**：HTML
-- **描述**：AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
+### 4. 📊 op7418/guizang-ppt-skill
+- **星标**：9,757 | **分叉**：790 | **语言**：HTML
+- **描述**：AI智能体技能：生成精美的HTML幻灯片：编辑杂志和瑞士布局、图像提示、社交封面，以及WebGL/低功耗演示运行时。
+- **主要特性**：
+  - 生成专业的HTML幻灯片
+  - 编辑杂志和瑞士设计布局
+  - AI驱动的图像提示生成
+  - 社交媒体封面创建
+  - 基于WebGL的演示运行时
+  - 低功耗模式延长使用时间
+  - 与各种AI智能体兼容
 - **链接**：https://github.com/op7418/guizang-ppt-skill
 
-### 5. nature-skills
-- **Stars**: 7,880 | **Forks**: 522 | **语言**：Python
-- **描述**：符合nature论文学术表达和科研绘图的Skill
+### 5. 🌿 Yuan1z0825/nature-skills
+- **星标**：8,255 | **分叉**：538 | **语言**：Python
+- **描述**：符合Nature论文学术表达和科研绘图的技能
+- **主要特性**：
+  - Nature期刊学术写作辅助
+  - 科学绘图和可视化工具
+  - 研究论文格式化助手
+  - 引用和参考文献管理
+  - 数据可视化模板
+  - LaTeX集成支持
 - **链接**：https://github.com/Yuan1z0825/nature-skills
 
-### 6. claude-for-legal
-- **Stars**: 6,987 | **Forks**: 988 | **语言**：Python
-- **描述**：A suite of plugins for legal workflows
+### 6. ⚖️ anthropics/claude-for-legal
+- **星标**：7,067 | **分叉**：1,016 | **语言**：Python
+- **描述**：法律工作流程插件套件
+- **主要特性**：
+  - 法律文档分析和审查
+  - 合同分析和风险评估
+  - 法律研究辅助
+  - 判例法总结
+  - 合规检查工具
+  - 法律文档格式生成
+  - 保密和安全重点
 - **链接**：https://github.com/anthropics/claude-for-legal
 
-### 7. OrcaSlicer-bambulab
-- **Stars**: 5,755 | **Forks**: 4,211 | **语言**：C++
-- **描述**：无描述
+### 7. 🖨️ FULU-Foundation/OrcaSlicer-bambulab
+- **星标**：5,849 | **分叉**：4,367 | **语言**：C++
+- **描述**：适用于Bambu Lab 3D打印机的OrcaSlicer修改版
+- **主要特性**：
+  - 3D打印切片软件
+  - 针对Bambu Lab打印机优化
+  - 高级打印设置和自定义
+  - 多材料打印支持
+  - 实时打印监控
+  - 网格修复和模型准备工具
+  - 活跃社区和频繁更新
 - **链接**：https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 
-### 8. awesome-gpt-image-2
-- **Stars**: 5,539 | **Forks**: 744 | **语言**：JavaScript
-- **描述**：Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+### 8. 🖼️ freestylefly/awesome-gpt-image-2
+- **星标**：5,581 | **分叉**：749 | **语言**：JavaScript
+- **描述**：提示即代码 | GPT-Image2工业级提示词引擎与模板库，370+个案例逆向工程，20+套工业级模板，并提炼出Skills，持续更新中
+- **主要特性**：
+  - GPT-Image2的工业级提示词工程
+  - 370+个真实案例逆向工程
+  - 20+套专业模板合集
+  - Skills提取框架
+  - 持续更新新技术
+  - 基于代码的提示词管理系统
+  - 各种用途的模板库
 - **链接**：https://github.com/freestylefly/awesome-gpt-image-2
 
-### 9. Kami
-- **Stars**: 5,401 | **Forks**: 276 | **语言**：HTML
-- **描述**：👩‍🚒 Good content deserves good paper.
+### 9. 🍵 tw93/Kami
+- **星标**：5,415 | **分叉**：276 | **语言**：HTML
+- **描述**：👩🚒 高质量内容值得优质呈现。
+- **主要特性**：
+  - 内容到印刷的工作流程优化
+  - 美丽的排版和布局生成
+  - 网页到印刷转换工具
+  - 纸张质量优化建议
+  - 环境友好的印刷
+  - 极简主义设计理念
+  - 专注于内容呈现卓越性
 - **链接**：https://github.com/tw93/Kami
 
-### 10. garden-skills
-- **Stars**: 5,114 | **Forks**: 745 | **语言**：CSS
-- **描述**：ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+### 10. 🎨 ConardLi/garden-skills
+- **星标**：5,177 | **分叉**：754 | **语言**：CSS
+- **描述**：ConardLi的开源Skills合集，包含网页设计、知识检索、图像生成等。
+- **主要特性**：
+  - 面向AI智能体的全面技能集
+  - 网页设计和UI/UX增强
+  - 知识检索和组织工具
+  - 图像生成和处理能力
+  - 模块化技能架构
+  - 易于与各种AI平台集成
+  - 定期更新新功能
 - **链接**：https://github.com/ConardLi/garden-skills
 
-## 3. 软件开发创意点子与功能建议
+---
 
-💡 **下一个项目的创新灵感**：
+## 3. 软件开发中的创意点子和功能建议
 
-1. Context-Aware Code Review Bot: AI that understands your team's coding standards, learns from past PR comments, and provides contextual feedback.
+💡 **您下一个项目的创新想法**：
 
-2. Intelligent Debugging Assistant: Analyzes stack traces, suggests fixes, learns from debugging patterns, and connects to error tracking services.
+### 🤖 AI驱动的开发工具
 
-3. Auto-Documentation Generator: Generates API docs from code + commit messages, creates interactive tutorials, maintains changelog automatically.
+1. **上下文感知的代码审查机器人**
+   - 理解团队编码标准和架构模式的AI
+   - 从过去的PR评论、建议和批准代码中学习
+   - 基于项目历史和类似过去更改提供上下文反馈
+   - 与GitHub/GitLab集成实现带有可操作建议的自动审查
+   - 可根据代码库分析建议重构机会
 
-4. Smart Meeting Summarizer: Records and transcribes meetings, extracts action items, integrates with project management tools, creates follow-up reminders.
+2. **智能调试助手**
+   - 分析堆栈跟踪、错误日志并在隔离环境中重现问题
+   - 从调试模式和成功修复策略中学习
+   - 连接错误追踪服务（Sentry、Datadog等）获取更广泛上下文
+   - 提供带置信度的一键修复建议
+   - 可根据代码更改预测潜在问题
 
-5. Cross-Platform Notification Hub: Unified inbox for all notifications, AI-powered priority sorting, smart batching, custom automation rules.
+3. **自动文档生成器**
+   - 根据代码更改+提交消息生成和更新API文档
+   - 从实际使用模式和示例创建交互式教程
+   - 自动维护变更日志并提供语义化版本建议
+   - 支持多种输出格式（Markdown、HTML、PDF、OpenAPI）
+   - 包含复杂系统的图表生成
 
-6. Personal Knowledge Graph: Automatically links notes, documents, and code, AI-suggested connections, visual graph exploration interface.
+### 🔄 工作流程自动化
 
-7. Ambient Development Environment: Background music that adapts to coding flow, Pomodoro timer with smart break suggestions, focus mode.
+4. **智能会议摘要器**
+   - 带说话人识别的会议录音和转录
+   - 自动提取行动项、决策并分配给团队成员
+   - 与项目管理工具（Jira、Linear、Asana）集成自动创建任务
+   - 创建跟进提醒并跟踪完成状态
+   - 提供可搜索的会议知识库
 
-8. Codebase Time Machine: Visualize codebase evolution over time, identify architectural drift, find when bugs were introduced, generate migration guides.
+5. **跨平台通知中心**
+   - 所有通知（邮件、Slack、GitHub等）的统一收件箱
+   - 基于内容和发送者重要性的AI优先级排序
+   - 智能批量处理以减少专注时间的干扰
+   - 自定义自动化规则（类似IFTTT）用于通知处理
+   - 学习您工作模式的免打扰模式
 
-9. Pair Programming Matchmaker: Matches developers based on skills and availability, suggests optimal pairings, tracks effectiveness, integrates with calendar.
+6. **个人知识图谱**
+   - 自动关联笔记、文档、代码和对话
+   - 基于语义分析的概念间AI建议连接
+   - 带过滤和导航的可视化图谱探索界面
+   - 可导出至Obsidian、Notion、Roam或标准图谱格式
+   - 包含变更追踪和版本历史
 
-10. Real-Time Team Velocity Dashboard: Live metrics on development progress, predictive completion estimates, bottleneck identification, customizable views.
+### 🎨 开发者体验
 
-11. API Usage Intelligence: Track API consumption patterns, detect anomalies, cost optimization recommendations, automatic rate limiting adjustments.
+7. **环境式开发环境**
+   - 根据编码流动状态自适应的背景音乐/声音景观
+   - 根据生产力指标提供智能建议的番茄钟计时器
+   - 智能阻止干扰同时允许紧急通信的专注模式
+   - 不显眼地显示可用性的团队在场指示器
+   - 环境控制（照明、温度）集成以达到最佳舒适度
 
-12. User Behavior Heatmaps for CLI Tools: Visualize most used commands, identify confusing workflows, A/B test new command designs, optimize documentation.
+8. **代库时光机**
+   - 通过交互式时间轴可视化代库随时间的演变
+   - 识别架构偏移和累积的技术债务
+   - 找出特定错误或性能问题何时被引入
+   - 为重构工作生成迁移指南和影响分析
+   - 展示代码所有权和贡献随时间的变化模式
 
-13. Automated Security Audit Pipeline: Continuous vulnerability scanning, dependency update suggestions, compliance report generation, CI/CD integration.
+9. **编程伙伴匹配器**
+   - 根据互补技能、可用性和工作风格匹配开发者
+   - 基于历史表现为特定任务建议最佳搭配
+   - 跟踪编程伙伴效果和知识转移指标
+   - 与日历集成进行安排并发送智能提醒
+   - 包含轮换建议以最大化团队技能分布
 
-14. Secret Detection & Rotation: Scans codebase for leaked credentials, automated secret rotation, integration with vault services, alerts on suspicious access.
+### 📊 数据与分析
 
-15. WebAssembly Plugin System: Safe, sandboxed plugin execution, cross-language plugin support, hot-reload without restarts, performance isolation.
+10. **实时团队速度仪表盘**
+    - 开发进度、周期时间和吞吐量的实时指标
+    - 基于历史速度和范围变更的预测完成估算
+    - 开发管道和工作流程中的瓶颈识别
+    - 不同利益相关者（工程师、管理者、高管）的可定义视图
+    - 趋势分析和预测能力
 
-16. Edge AI Deployment Framework: Deploy models to edge devices easily, automatic model optimization, federated learning support, offline-first architecture.
+11. **API使用智能**
+    - 跟踪API消费模式、错误率和性能指标
+    - 在问题影响用户之前检测异常和潜在问题
+    - 付费API使用的成本优化建议
+    - 基于使用模式的自动速率限制和调节调整
+    - 用于容量规划的使用预测
 
-17. AI-Powered Test Generator: Automatically generates unit tests from code, identifies untested code paths, suggests edge cases, integrates with CI/CD.
+12. **CLI工具用户行为热图**
+    - 可视化哪些命令、标志和工作流程被使用最频繁
+    - 识别需要简化的令人困惑或问题工作流程
+    - A/B测试新命令设计并测量采用和有效性
+    - 基于实际使用情况优化文档、示例和教程
+    - 基于个人使用模式提供个性化技巧和快捷方式
 
-18. Visual Regression Testing Suite: Automated UI screenshot comparison, pixel-perfect diff detection, cross-browser testing support, integration with design systems.
+### 🔐 安全与合规
 
-## 4. 总结与行动项
+13. **自动化安全审计管道**
+    - 持续漏洞扫描依赖项和代码
+    - 带影响和紧急程度评估的依赖项更新建议
+    - 各种标准（SOC2、ISO27001等）的合规报告生成
+    - 与CI/CD工作流程集成实现门控晋升
+    - 关键安全问题的实时警报
+    - 包含许可证合规检查
+
+14. **密钥检测与轮换**
+    - 扫描代码库、配置和日志中的泄露凭据和密钥
+    - 与服务提供者和保险库实现自动密钥轮换
+    - 与流行的密钥管理服务集成（HashiCorp Vault、AWS Secrets Manager等）
+    - 警报可疑访问模式或潜在凭据滥用
+    - 包含密钥生命周期管理和审计追踪
+
+### 🌐 新兴技术
+
+15. **WebAssembly插件系统**
+    - 具有近原生性能的安全沙箱插件执行
+    - 跨语言插件支持（Rust、C++、Go、AssemblyScript）
+    - 无需应用程序重启的热重载能力
+    - 插件的性能隔离和资源限制
+    - 带声誉和安全评分的插件市场
+    - 插件开发和调试的IDE集成
+
+16. **边缘AI部署框架**
+    - 最少配置下将AI模型部署到边缘设备（物联网、移动、浏览器）
+    - 自动模型优化、量化和编译以适配目标硬件
+    - 联邦学习支持以实现隐私保护的协作训练
+    - 首先离线的架构，具有本地推理和定期同步
+    - 设备管理和监控能力
+    - 包含模型版本控制和回滚机制
+
+### 🧪 测试与质量
+
+17. **AI驱动的测试生成器**
+    - 根据代码自动生成单元、集成和端到端测试
+    - 识别未测试的代码路径并建议提高覆盖率的测试
+    - 基于类似函数建议边界情况和边缘条件
+    - 智能生成模拟数据和测试夹具
+    - 与CI/CD管道集成并提供质量门控
+    - 包含测试维护和更新建议
+
+18. **视觉回归测试套件**
+    - 自动UI屏幕截图跨不同版本和分支的比较
+    - 像素完美和基于布局的差异检测，带有忽略区域
+    - 跨浏览器和跨设备测试支持
+    - 与设计系统和组件库集成
+    - 提供设计师和开发者的视觉变更审批工作流程
+    - 包含基线管理和历史比较
+
+---
+
+## 4. 摘要与行动项
 
 **📌 今日亮点**：
-- 天气数据来源于 wttr.inConviene de la ciudad de Hangzhou
-- 已获取 GitHub 热门仓库
-- 已编译软件开发创意
+- 杭州天气完美！晴天，18-30°C，无降雨预期
+- nexu-io/open-design以44.5K星标领先（本地优先AI设计替代方案）
+- HTML技能表现强劲（前10名中有4项）
+- Rust/C/C++继续在基础设施和性能工具中占主导地位
 
 **🎯 推荐行动**：
-- 审阅生成的简报文件
-- 查看热门仓库以获取灵感
-- 考虑实施其中一个开发创意
+1. 享受美好的晴天！非常适合户外活动或户外办公
+2. 查看 `nexu-io/open-design` 以获得创新的AI辅助设计能力
+3. 探索 `antirez/ds4` 以获得高性能本地AI推理
+4. 考虑尝试 `op7418/guizang-ppt-skill` 以获得AI生成的演示文稿
 
 **📅 明日预览**：
-- 继续监控天气和科技趋势
-- 敬请期待明日的简报
+- 天气：局部多云，16-22°C - 仍然适合户外计划
+- 无降雨预期 - 天气将完美延续今日的良好状态
+- 气温略低 - 建议傍晚携带轻薄外套
 
-*由每日简报自动化生成 | 2026-05-18*
-*天气数据：wttr.in | GitHub 数据：GitHub API | 创意：AI 助手*
+---
+
+*由每日简报自动化生成 | 2026年5月18日*
+*天气数据：wttr.in | GitHub数据：GitHub API | 创意点子：AI助手*
