@@ -1,141 +1,322 @@
-# 每日简报 - 2026-05-21
+# 每日简报 - 2026年5月21日
 
-**📖 其他语言:** [English Version](briefing_2026-05-21.md)
+**📖 亦可阅读：** [English Version](briefing_2026-05-21.md)
 
 ---
 
-## 1. 杭州天气与穿搭指南
+## 1. 杭州天气 & 穿搭指南
 
-**当前天气** (杭州，亚洲/上海):
-- 🌡️ 温度：25°C (体感温度 27°C)
-- 💨 风速：5 km/h (E 方向)
-- 🌤️ 天气状况：Patchy rain nearby
-- 💧 湿度：71%
-- 👁️ 能见度：10 公里
-- 📅 时间：May 21, 2026 06:07 (UTC)
+**当前天气** (杭州, Asia/Shanghai):
+- 🌡️ 温度：+22°C（体感 22°C）
+- 💨 风速：4 km/h（东风）
+- ☀️ 天气：晴朗
+- 💧 湿度：79%
+- 👁️ 能见度：10 km
+- 🌞 紫外线指数：1（低）
+- 📅 日期：2026年5月21日 14:00（当地时间 - 星期四下午）
 
-**📅 今日预报**：
-- 🌡️ 最高：26°C / 最低：21°C
-- 🌧️ 降雨概率：100%
-- 适合户外活动！
+**📅 今日天气预报（5月21日，星期四）**:
+- ☀️ 全天有阳间
+- 🌡️ 最高：27°C / 最低：21°C
+- 🌧️ 雨量：白天0%，深夜增加至100%
+- 绝佳的户外活动日！
 
-**📅 明日预报**：
-- 🌡️ 最高：28°C / 最低：19°C
-- 🌧️ 降雨概率：0%
+**📅 明日天气预报（5月22日，星期五）**:
+- ⛅ 多云转晴
+- 🌡️ 最高：22°C / 最低：19°C
+- 🌧️ 雨量：0%
+- 天气依然宜人！
 
 **👔 穿搭建议**：
-- 建议分层穿搭（长袖衬衫、轻薄毛衣/夹克）。请根据一天中的温度变化增减衣物。
-- **注意**：杭州天气变化快，建议随身携带薄外套或雨伞以防不时之需。
+- **今日（星期四）**：美丽的一天，有阳间！
+- **层次搭配策略**（适度6°C温差）：
+  - 基层：轻薄T恤或衬衫
+  - 中层：轻薄开衫或毛衣（如需可脱）
+  - 外层：晚间如需可备薄外套
+  - 配件：阳光时期建议戴太阳镜
+- **下装**：牛仔裤、卡其裤或休闲裤。全天候舒适穿着。
+- **鞋履**：运动鞋、乐福鞋或步行鞋。适合城市探索。
+- **今日特色**：早晨晴朗，午后转为多云伴有阳间。最适合西湖散步、茶园参观或户外用餐！
+- **紫外线提示**：紫外线指数低（1），但阳光强时仍建议戴太阳镜保护眼睛。
 
-## 2. GitHub 热门仓库 TOP 10（近 30 天）
+**📅 一周展望**： 
+- 今日和明日：绝佳户外活动天气
+- 周末展望：预期类似宜人天气
+- 今晚深夜：可能有零星雨降，如担心湿度可考虑室内晚间活动
 
-🔥 **按 Star 数量排序（最近 30 天创建）**：
+**☔ 雨水提示**：今日和明日无雨。今晚深夜可能有零星雨。
 
-### 1. open-design
-- **Stars**: 48,246 | **Forks**: 5,475 | **语言**：TypeScript
-- **描述**：🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-- **链接**：https://github.com/nexu-io/open-design
+---
 
-### 2. ds4
-- **Stars**: 11,045 | **Forks**: 917 | **语言**：C
-- **描述**：DeepSeek 4 Flash local inference engine for Metal and CUDA
-- **链接**：https://github.com/antirez/ds4
+## 2. GitHub热门仓库（过去30天）
 
-### 3. guizang-ppt-skill
-- **Stars**: 10,758 | **Forks**: 855 | **语言**：HTML
-- **描述**：AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
-- **链接**：https://github.com/op7418/guizang-ppt-skill
+🔥 **按星标数排序（近30天创建）**：
 
-### 4. nature-skills
-- **Stars**: 9,622 | **Forks**: 609 | **语言**：Python
-- **描述**：符合nature论文学术表达和科研绘图的Skill
-- **链接**：https://github.com/Yuan1z0825/nature-skills
+### 1. 🐍 mattpocock/skills
+- **星标**：80,029 | **分叉**：8,694 | **语言**：Shell
+- **描述**：来自我.claude目录的真工程师技能。
+- **主要特点**：
+  - AI代理技能和配置集合
+  - 真实工程师在AI助手中的实践
+  - 各种任务的即用技能定义
+  - 社区贡献的改进和更新
+  - 由经验丰富的AI工程师构建
+- **链接**：https://github.com/mattpocock/skills
 
-### 5. OrcaSlicer-bambulab
-- **Stars**: 6,200 | **Forks**: 4,843 | **语言**：C++
-- **描述**：无描述
-- **链接**：https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+### 2. 🐍 TauricResearch/TradingAgents
+- **星标**：26,200 | **分叉**：15,203 | **语言**：Python
+- **描述**：TradingAgents：基于LLM的多代理金融交易框架
+- **主要特点**：
+  - 用于金融交易的多代理LLM框架
+  - 不同市场分析方面的专门代理
+  - 实时数据集成和处理
+  - 回测和模拟功能
+  - 风险管理和投资组合优化工具
+- **链接**：https://github.com/TauricResearch/TradingAgents
 
-### 6. awesome-gpt-image-2
-- **Stars**: 5,758 | **Forks**: 773 | **语言**：JavaScript
-- **描述**：Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- **链接**：https://github.com/freestylefly/awesome-gpt-image-2
+### 3. 🐍 addyosmani/agent-skills
+- **星标**：26,157 | **分叉**：4,911 | **语言**：Shell
+- **描述**：AI编码代理的生产级工程技能。
+- **主要特点**：
+  - AI编码代理（Claude Code、Codex、Cursor）的标准化技能
+  - 生产就绪的实现和最佳实践
+  - 常见开发任务的全面技能库
+  - 易于与流行AI编码助手集成
+  - 定期更新最新工程技术
+- **链接**：https://github.com/addyosmani/agent-skills
 
-### 7. dirtyfrag
-- **Stars**: 4,707 | **Forks**: 748 | **语言**：C
-- **描述**：无描述
-- **链接**：https://github.com/V4bel/dirtyfrag
+### 4. 🐍 Alishahryar1/free-claude-code
+- **星标**：24,944 | **分叉**：4,041 | **语言**：Python
+- **描述**：在终端、VSCode扩展或Discord中免费使用Claude-code（支持语音，类似OpenClaw）
+- **主要特点**：
+  - 免费访问Claude Code功能
+  - 多平台支持（终端、VSCode、Discord）
+  - 语音交互支持
+  - 类似OpenClaw的功能，面向更广泛受众
+  - 社区驱动的开发和支持
+- **链接**：https://github.com/Alishahryar1/free-claude-code
 
-### 8. html-anything
-- **Stars**: 4,340 | **Forks**: 451 | **语言**：HTML
-- **描述**：✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-- **链接**：https://github.com/nexu-io/html-anything
+### 5. 🐍 ruvnet/ruflo
+- **星标**：21,381 | **分叉**：6,091 | **语言**：TypeScript
+- **描述**：🌊 Claude的领先代理编排平台。部署智能多代理群，协调自主工作流，构建对话式AI系统。具备企业级架构、自学习群智、RAG集成，以及原生Claude Code/Codex集成
+- **主要特点**：
+  - 企业级代理编排平台
+  - 多代理群部署和协调
+  - 自学习能力以提升性能
+  - RAG（检索增强生成）集成
+  - 原生集成Claude Code和Codex
+  - 工作流自动化和监控工具
+- **链接**：https://github.com/ruvnet/ruflo
 
-### 9. zerolang
-- **Stars**: 4,045 | **Forks**: 241 | **语言**：C
-- **描述**：The programming language for agents
-- **链接**：https://github.com/vercel-labs/zerolang
+### 6. 🐍 anthropics/financial-services
+- **星标**：18,624 | **分叉**：3,675 | **语言**：Python
+- **描述**：金融服务领域的人工智能应用
+- **主要特点**：
+  - AI驱动的金融分析和报告
+  - 自动合规和监管检查
+  - 欺诈检测和预防系统
+  - 银行客服聊天机器人
+  - 投资组合优化工具
+- **链接**：https://github.com/anthropics/financial-services
 
-### 10. zero-native
-- **Stars**: 3,928 | **Forks**: 152 | **语言**：Zig
-- **描述**：Build desktop + mobile apps with Zig and web UI
-- **链接**：https://github.com/vercel-labs/zero-native
+### 7. 🐍 Z4nzu/hackingtool
+- **星标**：17,826 | **分叉**：8,552 | **语言**：Python
+- **描述**：黑客的一站式工具箱
+- **主要特点**：
+  - 全面的网络安全工具包
+  - 网络扫描和漏洞评估
+  - 密码破解和加密实用程序
+  - 无线网络审计工具
+  - Web应用安全测试
+  - 法医分析能力
+- **链接**：https://github.com/Z4nzu/hackingtool
 
-## 3. 软件开发创意点子与功能建议
+### 8. 🐍 CloakHQ/CloakBrowser
+- **星标**：16,037 | **分叉**：1,421 | **语言**：Python
+- **描述**：通过每一个机器人检测测试的隐身Chromium。带有源级指纹补丁的Playwright替代品。30/30测试通过。
+- **主要特点**：
+  - 用于自动化和测试的反检测浏览器
+  - 源级指纹补丁
+  - Playwright的即插即用替代品
+  - 通过所有主要机器人检测测试（30/30）
+  - 用于网页抓取和自动化的隐身模式
+  - 定期更新以应对新的检测技术
+- **链接**：https://github.com/CloakHQ/CloakBrowser
 
-💡 **下一个项目的创新灵感**：
+### 9. 🐍 AIDC-AI/Pixelle-Video
+- **星标**：14,190 | **分叉**：2,690 | **语言**：Python
+- **描述**：🚀 AI全自动短视频引擎 | AI全自动短视频引擎
+- **主要特点**：
+  - 全自动短视频生成
+  - AI驱动的剧本到视频创作
+  - 多个AI模型集成（Flux、Midjourney等）
+  - 基于模板的视频创作
+  - 批处理功能
+  - 社交媒体优化的输出格式
+- **链接**：https://github.com/AIDC-AI/Pixelle-Video
 
-1. Context-Aware Code Review Bot: AI that understands your team's coding standards, learns from past PR comments, and provides contextual feedback.
+### 10. 🐍 rohitg00/agentmemory
+- **星标**：13,014 | **分叉**：1,292 | **语言**：TypeScript
+- **描述**：基于真实世界基准的AI编码代理#1持久内存
+- **主要特点**：
+  - AI代理的持久内存系统
+  - 基于真实世界基准的优化
+  - 会话间上下文保留
+  - 高效的存储和检索机制
+  - 与流行AI编码代理的集成
+  - 内存压缩和优化技术
+- **链接**：https://github.com/rohitg00/agentmemory
 
-2. Intelligent Debugging Assistant: Analyzes stack traces, suggests fixes, learns from debugging patterns, and connects to error tracking services.
+---
 
-3. Auto-Documentation Generator: Generates API docs from code + commit messages, creates interactive tutorials, maintains changelog automatically.
+## 3. 软件开发中的创意点子与功能建议
 
-4. Smart Meeting Summarizer: Records and transcribes meetings, extracts action items, integrates with project management tools, creates follow-up reminders.
+💡 **您下一个项目的创新点子**：
 
-5. Cross-Platform Notification Hub: Unified inbox for all notifications, AI-powered priority sorting, smart batching, custom automation rules.
+### 🤖 AI驱动的开发工具
 
-6. Personal Knowledge Graph: Automatically links notes, documents, and code, AI-suggested connections, visual graph exploration interface.
+1. **上下文感知代码审查机器人**
+   - 理解团队编码标准的AI
+   - 从过去的PR评论和建议中学习
+   - 基于项目历史提供上下文反馈
+   - 与GitHub/GitLab集成进行自动审查
 
-7. Ambient Development Environment: Background music that adapts to coding flow, Pomodoro timer with smart break suggestions, focus mode.
+2. **智能调试助手**
+   - 分析堆栈跟踪并提出修复建议
+   - 从您的调试模式中学习
+   - 连接到错误跟踪服务（Sentry等）
+   - 提供一键修复建议
 
-8. Codebase Time Machine: Visualize codebase evolution over time, identify architectural drift, find when bugs were introduced, generate migration guides.
+3. **自动文档生成器**
+   - 从代码+提交信息生成API文档
+   - 从使用模式创建交互式教程
+   - 自动维护更改日志
+   - 支持多种输出格式（Markdown、HTML、PDF）
 
-9. Pair Programming Matchmaker: Matches developers based on skills and availability, suggests optimal pairings, tracks effectiveness, integrates with calendar.
+### 🔄 工作流自动化
 
-10. Real-Time Team Velocity Dashboard: Live metrics on development progress, predictive completion estimates, bottleneck identification, customizable views.
+4. **智能会议摘要器**
+   - 自动记录和转录会议
+   - 提取行动项并分配给团队成员
+   - 与项目管理工具集成（Jira、Linear）
+   - 创建跟进提醒
 
-11. API Usage Intelligence: Track API consumption patterns, detect anomalies, cost optimization recommendations, automatic rate limiting adjustments.
+5. **跨平台通知中心**
+   - 所有通知的统一收件箱
+   - AI驱动的优先级排序
+   - 智能批处理以减少中断
+   - 自定义自动化规则（IFTTT风格）
 
-12. User Behavior Heatmaps for CLI Tools: Visualize most used commands, identify confusing workflows, A/B test new command designs, optimize documentation.
+6. **个人知识图谱**
+   - 自动链接笔记、文档和代码
+   - AI建议概念之间的关联
+   - 可视化图谱探索界面
+   - 可导出到Obsidian、Notion或Roam
 
-13. Automated Security Audit Pipeline: Continuous vulnerability scanning, dependency update suggestions, compliance report generation, CI/CD integration.
+### 🎨 开发者体验
 
-14. Secret Detection & Rotation: Scans codebase for leaked credentials, automated secret rotation, integration with vault services, alerts on suspicious access.
+7. **环境式开发环境**
+   - 背景音乐随您的编码流动而调整
+   - 带智能休息建议的番茄钟
+   - 阻止干扰的专注模式
+   - 团队存在指示器而不侵扰
 
-15. WebAssembly Plugin System: Safe, sandboxed plugin execution, cross-language plugin support, hot-reload without restarts, performance isolation.
+8. **代码库时间机器**
+   - 可视化您的代码库随时间的演变
+   - 识别架构漂移
+   - 找出错误引入时间
+   - 生成重构的迁移指南
 
-16. Edge AI Deployment Framework: Deploy models to edge devices easily, automatic model optimization, federated learning support, offline-first architecture.
+9. **结对编程撮合器**
+   - 根据技能和可用性匹配开发者
+   - 为特定任务推荐最佳搭档
+   - 跟踪结对编程效果
+   - 与日历集成进行调度
 
-17. AI-Powered Test Generator: Automatically generates unit tests from code, identifies untested code paths, suggests edge cases, integrates with CI/CD.
+### 📊 数据与分析
 
-18. Visual Regression Testing Suite: Automated UI screenshot comparison, pixel-perfect diff detection, cross-browser testing support, integration with design systems.
+10. **实时团队速度仪表板**
+    - 开发进度的实时指标
+    - 预测完成估算
+    - 瓶颈识别
+    - 不同利益相关者的可定义视图
 
-## 4. 总结与行动项
+11. **API使用情报**
+    - 跟踪API消费模式
+    - 检测异常和潜在问题
+    - 成本优化建议
+    - 自动速率限制调整
+
+12. **CLI工具用户行为热力图**
+    - 可视化最常用的命令
+    - 识别令人困惑的工作流程
+    - A/B测试新命令设计
+    - 基于使用情况优化文档
+
+### 🔐 安全与合规
+
+13. **自动化安全审计管道**
+    - 持续漏洞扫描
+    - 依赖更新建议
+    - 合规报告生成
+    - 集成到CI/CD工作流
+
+14. **秘密检测与轮换**
+    - 扫描代码库中的泄露凭据
+    - 自动秘密轮换
+    - 与保险库服务集成
+    - 对可疑访问模式发出警报
+
+### 🌐 新兴技术
+
+15. **WebAssembly插件系统**
+    - 安全的沙盒插件执行
+    - 跨语言插件支持
+    - 热重载无需重启
+    - 性能隔离
+
+16. **边缘AI部署框架**
+    - 轻松将模型部署到边缘设备
+    - 自动模型优化
+    - 联邦学习支持
+    - 离线优先架构
+
+### 🧪 测试与质量
+
+17. **AI驱动的测试生成器**
+    - 从代码自动生成单元测试
+    - 识别未测试的代码路径
+    - 建议覆盖的边缘情况
+    - 集成到CI/CD管道
+
+18. **视觉回归测试套件**
+    - 自动UI截屏比较
+    - 像素级差异检测
+    - 跨浏览器测试支持
+    - 与设计系统集成
+
+---
+
+## 4. 摘要与行动项
 
 **📌 今日亮点**：
-- 天气数据来源于 wttr.inConviene de la ciudad de Hangzhou
-- 已获取 GitHub 热门仓库
-- 已编译软件开发创意
+- 天气完美！阳间，21-27°C，白天无雨
+- 绝佳的户外活动和探索条件
+- mattpocock/skills以80K星领先（AI代理技能集合）
+- AI代理和自动化工具表现强劲
 
 **🎯 推荐行动**：
-- 审阅生成的简报文件
-- 查看热门仓库以获取灵感
-- 考虑实施其中一个开发创意
+1. 享受美好的天气！适合西湖散步或茶园参观
+2. 查看`mattpocock/skills`了解AI代理技能开发
+3. 探索`TauricResearch/TradingAgents`了解AI驱动的金融分析
+4. 考虑尝试`ClaudeHQ/CloakBrowser`进行不可检测的网页自动化
 
 **📅 明日预览**：
-- 继续监控天气和科技趋势
-- 敬请期待明日的简报
+- 天气：多云转晴，19-22°C - 仍然适合户外活动
+- 无雨预期 - 继续户外活动
+- 周末预期类似宜人天气
 
-*由每日简报自动化生成 | 2026-05-21*
-*天气数据：wttr.in | GitHub 数据：GitHub API | 创意：AI 助手*
+---
+
+*由每日简报自动化生成 | 2026年5月21日*
+*天气数据：wttr.in | GitHub数据：GitHub Trending | 想法：AI助手*
