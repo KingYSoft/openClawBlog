@@ -7,12 +7,12 @@
 ## 1. 杭州天气与穿搭指南
 
 **当前天气** (杭州，亚洲/上海):
-- 🌡️ 温度：18°C (体感温度 13°C)
-- 💨 风速：4 km/h (SSW 方向)
-- 🌤️ 天气状况：Partly Cloudy 
-- 💧 湿度：83%
+- 🌡️ 温度：21°C (体感温度 21°C)
+- 💨 风速：4 km/h (NNW 方向)
+- 🌤️ 天气状况：Overcast 
+- 💧 湿度：69%
 - 👁️ 能见度：10 公里
-- 📅 时间：June 09, 2026 02:00 (UTC)
+- 📅 时间：June 09, 2026 03:57 (UTC)
 
 **📅 今日预报**：
 - 🌡️ 最高：20°C / 最低：16°C
@@ -20,8 +20,8 @@
 - 适合户外活动！
 
 **📅 明日预报**：
-- 🌡️ 最高：28°C / 最低：14°C
-- 🌧️ 降雨概率：6%
+- 🌡️ 最高：29°C / 最低：14°C
+- 🌧️ 降雨概率：7%
 
 **👔 穿搭建议**：
 - 建议分层穿搭（长袖衬衫、轻薄毛衣/夹克）。请根据一天中的温度变化增减衣物。
@@ -32,52 +32,52 @@
 🔥 **按 Star 数量排序（最近 30 天创建）**：
 
 ### 1. odysseus
-- **Stars**: 63,905 | **Forks**: 7,815 | **语言**：Python
+- **Stars**: 64,035 | **Forks**: 7,831 | **语言**：Python
 - **描述**：Self-hosted AI workspace. 
 - **链接**：https://github.com/pewdiepie-archdaemon/odysseus
 
 ### 2. sdk-js
-- **Stars**: 8,118 | **Forks**: 36 | **语言**：TypeScript
+- **Stars**: 8,135 | **Forks**: 36 | **语言**：TypeScript
 - **描述**：JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.
 - **链接**：https://github.com/unicity-astrid/sdk-js
 
 ### 3. OrcaSlicer-bambulab
-- **Stars**: 6,832 | **Forks**: 5,159 | **语言**：C++
+- **Stars**: 6,832 | **Forks**: 5,160 | **语言**：C++
 - **描述**：无描述
 - **链接**：https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 
 ### 4. html-anything
-- **Stars**: 6,404 | **Forks**: 627 | **语言**：HTML
+- **Stars**: 6,416 | **Forks**: 629 | **语言**：HTML
 - **描述**：✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 - **链接**：https://github.com/nexu-io/html-anything
 
 ### 5. open-code-review
-- **Stars**: 5,367 | **Forks**: 268 | **语言**：Go
+- **Stars**: 5,518 | **Forks**: 270 | **语言**：Go
 - **描述**：Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - **链接**：https://github.com/alibaba/open-code-review
 
 ### 6. defending-code-reference-harness
-- **Stars**: 5,362 | **Forks**: 361 | **语言**：Python
+- **Stars**: 5,386 | **Forks**: 362 | **语言**：Python
 - **描述**：Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - **链接**：https://github.com/anthropics/defending-code-reference-harness
 
 ### 7. osiris
-- **Stars**: 5,015 | **Forks**: 1,022 | **语言**：TypeScript
+- **Stars**: 5,038 | **Forks**: 1,022 | **语言**：TypeScript
 - **描述**：Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 - **链接**：https://github.com/simplifaisoul/osiris
 
 ### 8. zerolang
-- **Stars**: 4,918 | **Forks**: 320 | **语言**：C++
+- **Stars**: 4,922 | **Forks**: 321 | **语言**：C++
 - **描述**：The Programming Language for Agents
 - **链接**：https://github.com/vercel-labs/zerolang
 
 ### 9. OpenLogi
-- **Stars**: 4,406 | **Forks**: 84 | **语言**：Rust
+- **Stars**: 4,411 | **Forks**: 84 | **语言**：Rust
 - **描述**：⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - **链接**：https://github.com/AprilNEA/OpenLogi
 
 ### 10. bumblebee
-- **Stars**: 4,349 | **Forks**: 392 | **语言**：Go
+- **Stars**: 4,351 | **Forks**: 392 | **语言**：Go
 - **描述**：Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - **链接**：https://github.com/perplexityai/bumblebee
 
