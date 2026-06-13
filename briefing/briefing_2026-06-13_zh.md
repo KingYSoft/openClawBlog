@@ -7,21 +7,21 @@
 ## 1. 杭州天气与穿搭指南
 
 **当前天气** (杭州，亚洲/上海):
-- 🌡️ 温度：22°C (体感温度 16°C)
-- 💨 风速：8 km/h (SSW 方向)
-- 🌤️ 天气状况：Smoky haze
-- 💧 湿度：62%
+- 🌡️ 温度：21°C (体感温度 21°C)
+- 💨 风速：4 km/h (S 方向)
+- 🌤️ 天气状况：Partly cloudy
+- 💧 湿度：88%
 - 👁️ 能见度：10 公里
-- 📅 时间：June 13, 2026 02:00 (UTC)
+- 📅 时间：June 13, 2026 14:10 (UTC)
 
 **📅 今日预报**：
-- 🌡️ 最高：23°C / 最低：18°C
-- 🌧️ 降雨概率：7%
+- 🌡️ 最高：20°C / 最低：18°C
+- 🌧️ 降雨概率：5%
 - 适合户外活动！
 
 **📅 明日预报**：
 - 🌡️ 最高：29°C / 最低：18°C
-- 🌧️ 降雨概率：39%
+- 🌧️ 降雨概率：33%
 
 **👔 穿搭建议**：
 - 建议分层穿搭（长袖衬衫、轻薄毛衣/夹克）。请根据一天中的温度变化增减衣物。
@@ -32,7 +32,7 @@
 🔥 **按 Star 数量排序（最近 30 天创建）**：
 
 ### 1. odysseus
-- **Stars**: 69,376 | **Forks**: 8,758 | **语言**：Python
+- **Stars**: 69,807 | **Forks**: 8,841 | **语言**：Python
 - **描述**：Self-hosted AI workspace. 
 - **链接**：https://github.com/pewdiepie-archdaemon/odysseus
 
@@ -42,44 +42,44 @@
 - **链接**：https://github.com/unicity-astrid/sdk-js
 
 ### 3. MiMo-Code
-- **Stars**: 6,905 | **Forks**: 549 | **语言**：TypeScript
+- **Stars**: 7,706 | **Forks**: 621 | **语言**：TypeScript
 - **描述**：无描述
 - **链接**：https://github.com/XiaomiMiMo/MiMo-Code
 
 ### 4. open-code-review
-- **Stars**: 6,454 | **Forks**: 363 | **语言**：Go
+- **Stars**: 6,552 | **Forks**: 372 | **语言**：Go
 - **描述**：Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - **链接**：https://github.com/alibaba/open-code-review
 
 ### 5. defending-code-reference-harness
-- **Stars**: 5,783 | **Forks**: 415 | **语言**：Python
+- **Stars**: 5,807 | **Forks**: 421 | **语言**：Python
 - **描述**：Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - **链接**：https://github.com/anthropics/defending-code-reference-harness
 
 ### 6. zerolang
-- **Stars**: 5,011 | **Forks**: 331 | **语言**：C++
+- **Stars**: 5,019 | **Forks**: 332 | **语言**：C++
 - **描述**：The Programming Language for Agents
 - **链接**：https://github.com/vercel-labs/zerolang
 
 ### 7. OpenLogi
-- **Stars**: 4,737 | **Forks**: 91 | **语言**：Rust
+- **Stars**: 4,749 | **Forks**: 91 | **语言**：Rust
 - **描述**：⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - **链接**：https://github.com/AprilNEA/OpenLogi
 
 ### 8. bumblebee
-- **Stars**: 4,414 | **Forks**: 400 | **语言**：Go
+- **Stars**: 4,418 | **Forks**: 401 | **语言**：Go
 - **描述**：Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - **链接**：https://github.com/perplexityai/bumblebee
 
 ### 9. chinese-buy-us-stock-guide
-- **Stars**: 4,249 | **Forks**: 658 | **语言**：N/A
+- **Stars**: 4,278 | **Forks**: 660 | **语言**：N/A
 - **描述**：美股指南
 - **链接**：https://github.com/zgwl/chinese-buy-us-stock-guide
 
-### 10. coreutils
-- **Stars**: 4,028 | **Forks**: 65 | **语言**：Rust
-- **描述**：Coreutils for Windows: Installer & Packaging
-- **链接**：https://github.com/microsoft/coreutils
+### 10. ian-xiaohei-illustrations
+- **Stars**: 4,186 | **Forks**: 427 | **语言**：N/A
+- **描述**：中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+- **链接**：https://github.com/helloianneo/ian-xiaohei-illustrations
 
 ## 3. 软件开发创意点子与功能建议
 
